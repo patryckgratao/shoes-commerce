@@ -1,8 +1,10 @@
 import React from 'react';
 
+// import {} from './styles';
+
 function Home() {
   return (
-    <h1>Home it's here</h1>
+    <h1>Oi home</h1>
   )
 }
 
